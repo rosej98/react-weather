@@ -6,20 +6,11 @@ function App() {
     <div className="App">
       <Weather />
 
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+      <br />
+      <div class="footer">
+        <a href="https://github.com/rosej98/react-weather">Open-source code</a>,
+        by R J
+      </div>
     </div>
   );
 }
